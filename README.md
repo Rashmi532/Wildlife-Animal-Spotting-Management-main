@@ -27,8 +27,8 @@ A web-based application designed to manage and track wildlife animal spotting ac
 ## 3️⃣ 🚀 Getting Started
 
 ### Clone the repository
-```bash
-git clone https://github.com/Rashmi532/Wildlife-Animal-Spotting-Management-main.git
+
+git clone https://github.com/Rashmi532/Wildlife-Animal-Spotting-Management-main.
 
 Navigate to project folder
 cd Wildlife-Animal-Spotting-Management-main/Kaadu
@@ -61,3 +61,5 @@ Wildlife-Animal-Spotting-Management-main/
 │   └── ...other files
 │── README.md                  # Project documentation
 │── database.sql               # Database schema (if available)
+
+

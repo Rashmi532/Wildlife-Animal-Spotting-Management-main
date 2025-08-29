@@ -48,7 +48,7 @@ Place the project inside the htdocs folder (for XAMPP).
 Open in browser:
 
 http://localhost/Kaadu/
-
+```bash
 4️⃣ 📂 Project Structure
 Wildlife-Animal-Spotting-Management-main/
 │── Kaadu/                     # Main project folder
